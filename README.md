@@ -65,6 +65,6 @@ She should have her google calender connected to a service that can check the we
 ## License:
 
 
-## Acknowledgments:
+## Acknowledgments: 
 
 
